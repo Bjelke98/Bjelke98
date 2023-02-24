@@ -8,6 +8,7 @@
   - JavaScript
   - Kotlin
   - C#
+  - Ruby on Rails
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
