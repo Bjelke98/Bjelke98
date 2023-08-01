@@ -2,7 +2,7 @@
 
 <!--**Bjelke98/Bjelke98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently studying IT and Information Systems at **USN-Bø**
+- 🔭 I’m currently working at **Bouvet AS** in Grenland
 - 🌱 My most used languages at the moment:
   - Java
   - JavaScript
